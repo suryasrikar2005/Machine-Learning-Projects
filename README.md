@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-##📘 Project - 1: Medical Cost Prediction – Insurance Charges Estimator
+# 📘 Project - 1: Medical Cost Prediction – Insurance Charges Estimator
 This project predicts medical insurance charges using a person's demographics and lifestyle information by applying Multiple Linear Regression. It demonstrates how regression models can help insurance companies estimate risk and cost more accurately.
 
  🧠 Problem Statement
