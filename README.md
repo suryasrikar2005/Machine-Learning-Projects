@@ -21,5 +21,13 @@ Given a dataset of patient details (age, sex, BMI, number of children, smoking s
   📉 Visualization of Regression Line and Predictions  
 
 ---
-  🚢 Titanic Survival Prediction Project
+# 🚢 Project - 2: Titanic Survival Prediction Project
+This project uses machine learning to predict whether a passenger survived the Titanic disaster based on features such as age, gender, class, and fare. It is a classic beginner ML project, and this version achieves an accuracy of 59%.
+
+📌 Project Overview
+Goal: Predict survival of passengers aboard the Titanic.
+
+Dataset: Titanic dataset from Kaggle or sklearn (contains passenger features and survival labels).
+
+Model Accuracy: 59% (initial baseline).
 
