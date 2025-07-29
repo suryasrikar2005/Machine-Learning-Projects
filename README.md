@@ -20,3 +20,6 @@ Given a dataset of patient details (age, sex, BMI, number of children, smoking s
   🧪 Model Evaluation using R² Score, MAE, MSE, and RMSE  
   📉 Visualization of Regression Line and Predictions  
 
+---
+  🚢 Titanic Survival Prediction Project
+
